@@ -1,0 +1,28 @@
+span.intro {
+  font-weight: lighter;
+}
+h2 {
+  font-size: 20px;
+}
+.container {
+  position: relative;
+  top: 40px;
+}
+.col-10 {
+  position: relative;
+  right: 80px;
+}
+.card {
+  margin-top: 50px;
+  padding: 15px;
+}
+.card-title {
+  text-align: center;
+  color: gray;
+}
+.card-weather {
+  text-align: center;
+}
+.card-text {
+  text-align: center;
+}
